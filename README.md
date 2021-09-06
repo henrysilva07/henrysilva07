@@ -1,5 +1,5 @@
 - Olá 👋 
-- Meu nome é Francisco Henry, sou graduando em engenharia metalúrgica, mas analista de dados poe vocação. 
+- Meu nome é Francisco Henry, sou graduando em engenharia metalúrgica, mas analista de dados por vocação. 
 
 - 🔭 Atualmente trabalho como estagiário de perda conhecida (data analysis) na Pague Menos 
 - 📫 Como entrar em contato comigo: henry131307@gmail.com
