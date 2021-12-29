@@ -3,8 +3,6 @@
 - 👨‍🏭 Hoje eu trabalho com análise de dados..
 - 📘 Estudando para me tornar cientista de dados para atuar com machine learning .
 - ✨ Tecnologias e ferramentas: Python , SQL e Power BI. 
-- 📩 Contato: henry131307@gmail.com
-- 🔗 Linkedin: https://www.linkedin.com/in/henry-silva-41a048178/ 
 
 <div align="center">
   <a href="https://github.com/henrysilva07">
@@ -21,3 +19,8 @@
 </div>
   
   ##
+   
+<div> 
+ <a href="https://instagram.com/henrysilva07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:henry131307@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/henry-silva-41a048178/ " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
