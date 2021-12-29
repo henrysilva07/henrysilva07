@@ -17,7 +17,6 @@
   <img align="center" alt="Henry-sql" height="42" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Rafa-PBI" height="42" width="40" src="https://img.icons8.com/color/96/000000/power-bi.png">
   <img align="center" alt="Henry-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
   
 </div>
   
