@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Henry Silva, analista de dados e apaixonado por ciência de dados
 
-- 👨‍🏭 Atualmente eu trabalho como analista de dados jr. 
-- 📘 Estudando para me tornar cientista de dados para atuar com machine learning.
+- 👨‍🏭 Atualmente trabalho como analista de dados jr. 
+- 📘 Estou estudando para me tornar cientista de dados.
 - ✨ Tecnologias e ferramentas: Python , SQL e Power BI. 
 - Para ter acesso ao meu portifólio de projetos [clique aqui](https://github.com/henrysilva07/portfolio)
 
