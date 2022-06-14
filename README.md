@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Henry Silva, analista de dados e apaixonado por ciência de dados
 
 - 👨‍🏭 Atualmente trabalho como analista de dados jr. 
-- 📘 Estou estudando para me tornar cientista de dados.
-- ✨ Tecnologias e ferramentas: Python , SQL e Power BI. 
+- 📘 Estou estudando para me tornar Engenheiro de dados.
+- ✨ Tecnologias e ferramentas: Python , Spark , Apache Airflow, SQL e Power BI. 
 - Para ter acesso ao meu portifólio de projetos [clique aqui](https://github.com/henrysilva07/portfolio)
 
 <div align="center">
