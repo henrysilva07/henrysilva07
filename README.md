@@ -1,4 +1,4 @@
-### Olá! Eu sou o Henry Silva, analista de dados e apaixonado por ciência de dados
+### Olá! Eu sou o Henry Silva, engenheiro de dados e apaixonado por dados
 
 - 👨‍🏭 Atualmente trabalho como analista de dados jr. 
 - 📘 Estou estudando para me tornar Engenheiro de dados.
