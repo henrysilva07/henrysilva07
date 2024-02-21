@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Henry Silva, engenheiro de dados e apaixonado por dados
 
-- 👨‍🏭 Atualmente trabalho como engenheiro de dados jr. 
+- 👨‍🏭 Atualmente trabalho como engenheiro de dados. 
 - ✨ Tecnologias e ferramentas: Python , Spark , Apache Airflow, SQL e Power BI. 
 - Para ter acesso ao meu portifólio de projetos [clique aqui](https://github.com/henrysilva07/portfolio)
 
